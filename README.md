@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/9bmgnogybtaoh4kd/branch/master?svg=true)](https://ci.appveyor.com/project/TatianaRudikova/basicsofautomation-apici/branch/master)
+[![Build status](https://ci.appveyor.com/api/projects/status/r8s2vuv1c54p8l3e/branch/master?svg=true)](https://ci.appveyor.com/project/TatianaRudikova/basicsofautomation-apici-postman/branch/master)
